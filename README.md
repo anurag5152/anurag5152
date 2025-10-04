@@ -56,8 +56,8 @@ I like working on projects that **blend creativity and logic** — anything from
 #### 💬 Chat Web App *(Ongoing)*
 > Real-time messaging app with modern UI and scalable architecture.  
 - Real-time chats via **WebSockets**  
-- **Node.js + Express + MongoDB** backend  
-- Clean UI using **Tailwind + Alpine.js**  
+- **Node.js + Express + SQLite3** backend  
+- Clean UI using **Tailwind**  
 - Authentication and live status indicators *(in progress)*
 
 #### 💰 [Expense Tracker](https://expense-tracker-hv1x.onrender.com/)
