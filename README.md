@@ -1,16 +1,93 @@
-<h1 align="center">Hi 👋, I'm Anurag Kumar</h1>
-<h3 align="center">A passionate Developer</h3>
+<h1 align="center">👋 Hey, I'm Anurag Kumar</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag5152" alt="anurag5152" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anuragkumar5152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuragkumar5152/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/anurag_kr5152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anurag_kr5152/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:anurag.5152.kumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/anuragkumar5152/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/anurag5152"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag5152&show_icons=true&locale=en" alt="anurag5152" /></p>
+### 🚀 About Me
 
+I'm a **Full Stack Web Developer** focused on building **modern, fast, and scalable web apps**.  
+Currently working on a **Chat Web Application** with real-time communication and clean UI.  
+
+I’ve previously built:
+- Resume rendering systems with **Laravel + Dompdf + Browsershot** for pixel-perfect PDF exports.  
+- Portfolio generators and **AI-optimized resume tools** for better design accuracy and interactivity.  
+- Full-stack apps with **Node.js**, **Express**, and **MongoDB**, integrating **Chart.js** for live data visualizations.
+
+I like working on projects that **blend creativity and logic** — anything from sleek UI systems to backend-heavy APIs.
+
+---
+
+### ⚙️ Tech Stack
+
+#### 🧠 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,nodejs,express,laravel,mongodb,bootstrap" />
+</p>
+
+#### 🛠 Tools & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" />
+</p>
+
+---
+
+### 💼 Experience
+
+**Front End Developer (Intern)** @ *Alive Hire* — *Jul 2025 → Oct 2025*  
+> Building and refining digital tools for resume rendering and portfolio management.
+
+- Engineered precise **PDF exports** using Dompdf & Browsershot.  
+- Built **15+ portfolio templates** in **Laravel** & **Alpine.js**.  
+- Enhanced an **AI-driven resume optimizer** for smoother UI and UX.  
+- Tech Stack: *Laravel · Alpine.js · Bootstrap · Dompdf · Browsershot*
+
+---
+
+### 🧩 Projects
+
+#### 💬 Chat Web App *(Ongoing)*
+> Real-time messaging app with modern UI and scalable architecture.  
+- Real-time chats via **WebSockets**  
+- **Node.js + Express + MongoDB** backend  
+- Clean UI using **Tailwind + Alpine.js**  
+- Authentication and live status indicators *(in progress)*
+
+#### 💰 [Expense Tracker](https://expense-tracker-hv1x.onrender.com/)
+> Full-stack app to track daily expenses with real-time charts and secure login.  
+- CRUD operations, guest login, and pie-chart analytics  
+- Tech: *Node.js · Express · MongoDB · Chart.js*  
+🔗 [Source Code](https://github.com/anurag5152/expense-tracker)
+
+#### 🎬 [Movie Recommendation System](https://movie-recommendation-18ds.onrender.com/)
+> Content-based movie recommender built using **Python + NLP + scikit-learn**.  
+- Real-time Streamlit UI with poster previews  
+- Uses **cosine similarity** over Kaggle datasets  
+🔗 [Source Code](https://github.com/anurag5152/Movie-Recommendation)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag5152&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag5152&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag5152&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let’s collaborate or build something cool 👇</b><br/>
+  <a href="mailto:anurag.5152.kumar@gmail.com">📩 anurag.5152.kumar@gmail.com</a>
+</p>
