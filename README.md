@@ -11,28 +11,28 @@
 
 ---
 
-### 🚀 About Me
+## 💼 Who I Am
 
-I’m a **Full Stack Web Developer** who loves turning ideas into fast, elegant, and scalable web apps.  
-Currently building a **Chat Web Application** with real-time messaging, authentication, and a modern UI.  
+I’m a **Full Stack Web Developer** passionate about turning complex problems into seamless user experiences.  
+Currently building a **real-time Chat Web App** with authentication, messaging, and active user tracking.  
 
-Previously, I’ve worked on:
-- Resume rendering systems with **Laravel + Dompdf + Browsershot** for pixel-perfect PDF exports.  
-- Portfolio generators and **AI-powered resume tools** improving design precision & usability.  
-- Full-stack projects using **Node.js**, **Express**, and **MongoDB** — all focused on performance and clean architecture.
+Previously, I’ve:
+- Built **resume rendering systems** using *Laravel + Dompdf + Browsershot* for pixel-perfect exports.  
+- Created **AI-powered portfolio tools** that merge automation with good design.  
+- Developed **data-driven full-stack apps** in *Node.js, Express, and MongoDB* using Chart.js visualizations.  
 
-I like projects that **blend creativity with strong logic**, from refined UIs to robust backend APIs.
+I’m the kind of developer who enjoys the intersection of **engineering precision** and **UI polish** — where performance meets design.
 
 ---
 
-### ⚙️ Tech Stack
+## 🧠 Core Stack
 
-#### 🧠 Languages & Frameworks
+#### 💬 Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,nodejs,express,laravel,mongodb,bootstrap" />
 </p>
 
-#### 🛠 Tools & Libraries
+#### ⚙️ Tools, Libraries & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
@@ -42,42 +42,48 @@ I like projects that **blend creativity with strong logic**, from refined UIs to
 
 ---
 
-### 💼 Experience
+## 🧩 Projects That Define Me
 
-**Front End Developer (Intern)** @ *Alive Hire* — *Jul 2025 → Oct 2025*  
-> Building and refining digital tools for resume rendering and portfolio management.
-
-- Engineered precise **PDF exports** using Dompdf & Browsershot.  
-- Built **15+ portfolio templates** with **Laravel** & **Alpine.js**.  
-- Enhanced an **AI-driven resume optimizer** for smoother UI and UX.  
-- *Tech Stack:* Laravel · Alpine.js · Bootstrap · Dompdf · Browsershot
+### 💬 Chat Web App *(In Progress)*
+> Real-time messaging platform built from scratch — clean, fast, and minimal.  
+- Live chat via **WebSockets**  
+- **Node.js + Express + SQLite3** backend  
+- **Tailwind UI** with responsive design  
+- Auth system and live user presence *(in progress)*  
 
 ---
 
-### 🧩 Projects
-
-#### 💬 Chat Web App *(Ongoing)*
-> Real-time chat platform with sleek UI and robust backend.  
-- Live messaging via **WebSockets**  
-- **Node.js + Express + SQLite3** backend  
-- Responsive **Tailwind UI**  
-- Authentication and live presence *(in progress)*
-
-#### 💰 [Expense Tracker](https://expense-tracker-hv1x.onrender.com/)
-> Track your expenses with real-time charts and secure login.  
-- Guest login, CRUD operations, and chart analytics  
-- *Stack:* Node.js · Express · MongoDB · Chart.js  
+### 💰 [Expense Tracker](https://expense-tracker-hv1x.onrender.com/)
+> Simple, fast, and functional — manage expenses visually and securely.  
+- CRUD operations + guest login  
+- Real-time pie charts via **Chart.js**  
+- *Stack:* Node.js · Express · MongoDB  
 🔗 [Source Code](https://github.com/anurag5152/expense-tracker)
 
-#### 🎬 [Movie Recommendation System](https://movie-recommendation-18ds.onrender.com/)
-> Python-based movie recommender using NLP & cosine similarity.  
-- Streamlit UI for instant suggestions  
-- Kaggle datasets for better context & accuracy  
+---
+
+### 🎬 [Movie Recommendation System](https://movie-recommendation-18ds.onrender.com/)
+> A Python + NLP app that recommends movies using content-based filtering.  
+- Powered by **scikit-learn** + **cosine similarity**  
+- Streamlit interface for live recommendations  
+- Trained on **Kaggle datasets**  
 🔗 [Source Code](https://github.com/anurag5152/Movie-Recommendation)
 
 ---
 
-### 📊 GitHub Insights
+## 🧰 Experience
+
+**Front End Developer (Intern)** @ *Alive Hire* — *Jul 2025 → Oct 2025*  
+> Creating digital resume tools and portfolio templates for a smarter job search experience.
+
+- Implemented accurate **PDF rendering** using Dompdf & Browsershot.  
+- Designed and deployed **15+ portfolio templates** in **Laravel + Alpine.js**.  
+- Enhanced **AI-driven resume optimization workflows** for better user experience.  
+- *Tech Stack:* Laravel · Alpine.js · Bootstrap · Dompdf · Browsershot
+
+---
+
+## 📊 Developer Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anurag5152&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
@@ -90,7 +96,7 @@ I like projects that **blend creativity with strong logic**, from refined UIs to
 
 ---
 
-### 💡 Fun Touch
+## 🏆 Developer Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anurag5152&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
@@ -103,6 +109,6 @@ I like projects that **blend creativity with strong logic**, from refined UIs to
 </p>
 
 <p align="center">
-  <b>Let’s collaborate or build something cool 👇</b><br/>
+  <b>Let’s build something innovative together 👇</b><br/>
   <a href="mailto:anurag.5152.kumar@gmail.com">📩 anurag.5152.kumar@gmail.com</a>
 </p>
