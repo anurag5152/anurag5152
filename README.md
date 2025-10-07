@@ -47,7 +47,7 @@ I’m the kind of developer who enjoys the intersection of **engineering precisi
 ### 💬 Chat Web App *(In Progress)*
 > Real-time messaging platform built from scratch — clean, fast, and minimal.  
 - Live chat via **WebSockets**  
-- **Node.js + Express + SQLite3** backend  
+- **Node.js + Express + PostgreSQL** backend  
 - **Tailwind UI** with responsive design  
 - Auth system and live user presence *(in progress)*  
 
