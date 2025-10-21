@@ -14,7 +14,7 @@
 ## 💼 Who I Am
 
 I’m a **Full Stack Web Developer** passionate about turning complex problems into seamless user experiences.  
-Recent project: A **real-time Chat Web App** with authentication, messaging, and active user tracking.  
+Recent project: A **real-time Chat Web App** with authentication, messaging.
 
 Previously, I’ve:
 - Built **resume rendering systems** using *Laravel + Dompdf + Browsershot* for pixel-perfect exports.  
