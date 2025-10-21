@@ -14,7 +14,7 @@
 ## 💼 Who I Am
 
 I’m a **Full Stack Web Developer** passionate about turning complex problems into seamless user experiences.  
-Currently building a **real-time Chat Web App** with authentication, messaging, and active user tracking.  
+Recent project: A **real-time Chat Web App** with authentication, messaging, and active user tracking.  
 
 Previously, I’ve:
 - Built **resume rendering systems** using *Laravel + Dompdf + Browsershot* for pixel-perfect exports.  
@@ -44,7 +44,7 @@ I’m the kind of developer who enjoys the intersection of **engineering precisi
 
 ## 🧩 Projects That Define Me
 
-### 💬 Chat Web App *(In Progress)*
+### 💬 [Chat Web App](https://chatweb2-4ijb.onrender.com/)
 > Real-time messaging platform built from scratch — clean, fast, and minimal.  
 - Live chat via **WebSockets**  
 - **Node.js + Express + PostgreSQL** backend  
