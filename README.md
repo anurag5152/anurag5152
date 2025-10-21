@@ -49,7 +49,6 @@ I’m the kind of developer who enjoys the intersection of **engineering precisi
 - Live chat via **WebSockets**  
 - **Node.js + Express + PostgreSQL** backend  
 - **Tailwind UI** with responsive design  
-- Auth system and live user presence *(in progress)*  
 
 ---
 
