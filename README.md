@@ -17,8 +17,7 @@ I’m a **Full Stack Web Developer** passionate about turning complex problems i
 Recent project: A **real-time Chat Web App** with authentication, messaging.
 
 Previously, I’ve:
-- Built **resume rendering systems** using *Laravel + Dompdf + Browsershot* for pixel-perfect exports.  
-- Created **AI-powered portfolio tools** that merge automation with good design.  
+- Built **resume rendering systems** using *Laravel + Dompdf + Browsershot* for pixel-perfect exports.
 - Developed **data-driven full-stack apps** in *Node.js, Express, and MongoDB* using Chart.js visualizations.  
 
 I’m the kind of developer who enjoys the intersection of **engineering precision** and **UI polish** — where performance meets design.
