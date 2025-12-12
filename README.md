@@ -13,14 +13,14 @@
 
 ## 💼 Who I Am
 
-I’m a **Full Stack Web Developer** passionate about turning complex problems into seamless user experiences.  
+I'm a **Full Stack Web Developer** passionate about turning complex problems into seamless user experiences.  
 Recent project: A **real-time Chat Web App** with authentication, messaging.
 
-Previously, I’ve:
+Previously, I've:
 - Built **resume rendering systems** using *Laravel + Dompdf + Browsershot* for pixel-perfect exports.
 - Developed **data-driven full-stack apps** in *Node.js, Express, and MongoDB* using Chart.js visualizations.  
 
-I’m the kind of developer who enjoys the intersection of **engineering precision** and **UI polish** — where performance meets design.
+I'm the kind of developer who enjoys the intersection of **engineering precision** and **UI polish** — where performance meets design.
 
 ---
 
@@ -81,23 +81,28 @@ I’m the kind of developer who enjoys the intersection of **engineering precisi
 
 ---
 
-## 📊 Developer Metrics
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.anurag.dev/?user=anurag5152&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.anurag.dev/api/top-langs/?username=anurag5152&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  
+![](https://github-readme-activity-graph.vercel.app/graph?username=anurag5152&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 <div align="center">
-  <img scr="https://github-readme-stats.anurag.dev/api?username=anurag5152&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  
+| 🔥 Streak Stats | 📈 Contribution Stats |
+|:---:|:---:|
+| ![](https://nirzak-streak-stats.vercel.app/api?user=anurag5152&theme=tokyonight&hide_border=true) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anurag5152&theme=tokyonight&utcOffset=5.5) |
+
 </div>
 
 ---
 
-## 🏆 Developer Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anurag5152&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anurag5152&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </div>
 
 ---
@@ -107,6 +112,6 @@ I’m the kind of developer who enjoys the intersection of **engineering precisi
 </p>
 
 <p align="center">
-  <b>Let’s build something innovative together 👇</b><br/>
+  <b>Let's build something innovative together 👇</b><br/>
   <a href="mailto:anurag.5152.kumar@gmail.com">📩 anurag.5152.kumar@gmail.com</a>
 </p>
