@@ -135,8 +135,9 @@ I'm the kind of developer who enjoys the intersection of **engineering precision
 
 <div align="center">
 
-### 💬 Chat Web App
+### 💬 Chat Web App 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://chatweb2-4ijb.onrender.com/)
+[![Source Code](https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github)](https://github.com/anurag5152/chatweb2)
 
 **Real-time messaging platform built from scratch**
 
@@ -238,14 +239,6 @@ I'm the kind of developer who enjoys the intersection of **engineering precision
   </tr>
 </table>
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anurag5152&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </div>
 
 ---
