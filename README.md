@@ -84,12 +84,12 @@ I’m the kind of developer who enjoys the intersection of **engineering precisi
 ## 📊 Developer Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag5152&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anurag5152&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.anurag.dev/?user=anurag5152&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.anurag.dev/api/top-langs/?username=anurag5152&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag5152&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img scr="https://github-readme-stats.anurag.dev/api?username=anurag5152&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 ---
